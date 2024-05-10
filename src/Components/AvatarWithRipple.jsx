@@ -41,7 +41,7 @@ export default function AvatarWithRipple() {
                     bgColor: 'teal',
                     animation: `2.25s ${pulseRing} cubic-bezier(0.455, 0.03, 0.515, 0.955) -0.4s infinite`,
                 }}>
-                <Avatar src="https://res.cloudinary.com/dbbuqesjg/image/upload/v1705506706/Desney_hotstar/thumnails/shiva_verma_asvtuu.jpg" size="full" position="absolute" top={0} />
+                <Avatar src="" size="full" position="absolute" top={0} />
             </Box>
         </Flex>
     )
