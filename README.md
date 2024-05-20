@@ -2,7 +2,7 @@
 Experience a fully responsive and visually appealing web interface that grants convenient access to the newest Disney+ Hotstart content. Built with a robust tech stack, this project demonstrates proficiency in React.js,Redux for state-management, JSON data management, and Chakra UI for seamless styling.
 <br/>
 <br/>
-<b>Live At :</b> https://disneyhotstar-h4cwtwpnn-shivaverma1115.vercel.app/
+<b>Live At :</b>https://final-project-one-navy.vercel.app/
 
 # Features 
 
